@@ -1,0 +1,23 @@
+.texts{
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: Navy;
+}
+
+.sText{
+	width: 450px;
+} 
+
+.sUrl{
+	width: 250px;
+}
+
+.roundedDiv{
+      -webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;border:3px solid #ADD9FF;background-color:#FFF;-webkit-box-shadow: #B3B3B3 10px 10px 10px;-moz-box-shadow: #B3B3B3 10px 10px 10px; box-shadow: #B3B3B3 10px 10px 10px; 
+}
+
+.container{
+	text-align: center;
+	vertical-align: middle;
+}
